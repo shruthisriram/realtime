@@ -6,7 +6,7 @@ body{
     align-items: center;
     height: 100vh; 
     justify-content: center; 
-      background: url(bg1.avif);
+      background: url("https://github.com/shruthisriram/realtime/blob/main/bg1.avif");
       overflow: hidden;
 }
 h2{
